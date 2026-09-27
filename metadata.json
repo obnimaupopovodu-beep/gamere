@@ -1,0 +1,7 @@
+{
+  "name": "Эхо Кондуита: Том 1 и 2",
+  "description": "Кооперативная двухпользовательская головоломка для Огня и Воды с новыми механиками Тома 2, патрулями и ловушками.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
